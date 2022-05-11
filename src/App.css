@@ -1,0 +1,44 @@
+h1{
+  color:rgb(106, 212, 106) ;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 40px;
+  letter-spacing: 10px;
+  }
+  .container{
+  width: 48%;
+  }
+  .sekil1{
+  width: 400px;
+  position: absolute;
+  left: 900px;
+  top: 400px;
+  box-shadow: -9px 18px 50px -6px #000000;
+  }
+  .sekil3{
+  width: 400px; 
+  position: absolute;
+  left: 800px;
+  top: 250px;
+  box-shadow: -9px 18px 50px -6px #000000;
+  }
+  .sekil2{
+  width: 400px;
+  position: absolute;
+  left: 1100px;
+  top: 300px;
+  box-shadow: -9px 18px 50px -6px #000000;
+  }
+  .container1{
+      margin: 100px;  
+      color: rgb(107, 105, 105);
+      font-weight: 150px;
+      padding-bottom: 200px;
+      line-height: 1.7;
+      font-size: 20px;
+      font-family: 'Lato', sans-serif;
+  }
+  .soz{
+      color:rgb(106, 212, 106) ;
+  text-decoration: underline;
+  }
